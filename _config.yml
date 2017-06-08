@@ -1,0 +1,23 @@
+# Site settings
+title: Café com DrFarm
+header-img: img/home-bg.jpg
+email: contato@doctorfamr.com.br
+copyright_name: Blog/DrFarm
+description: "Blog do DrFarm"
+url: "https://drfarm.com.br"
+github_username: cristianossd
+facebook_username:  DrFarmBR
+email_username:  contato@doctorfarm.com.br
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
