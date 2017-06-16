@@ -4,7 +4,7 @@ title:      "Agricultura digital vai revolucionar a produtividade no campo, diz 
 subtitle:   "A agricultura digital vai revolucionar a produtividade no campo, a partir do uso cada vez mais intensivo da tecnologia da informação no dia a dia da agropecuária"
 date:       2017-06-06 12:00:00
 author:     "DrFarm"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post-bg-01.png"
 ---
 
 <p>A agricultura digital vai revolucionar a produtividade no campo, a partir do uso cada vez mais intensivo da tecnologia da informação no dia a dia da agropecuária. Foi o que destacou Rodrigo Santos, CEO da Monsanto no Brasil, em palestra, realizada nesta segunda-feira (04), durante o Global Agribusiness Forum (GAF). Organizado pela Datagro, o GAF, maior congresso do agronegócio mundial, acontece entre hoje e amanhã em São Paulo (SP).</p>
