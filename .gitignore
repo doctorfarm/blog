@@ -9,5 +9,6 @@ build
 *.seed
 config/database.json
 newrelic_agent.log
+_site
 _site/deploy.sh
 _site/deployment-production.sh
